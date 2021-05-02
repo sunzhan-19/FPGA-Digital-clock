@@ -1,5 +1,5 @@
-# my-course-code-
-包括实验课程中基于Nexys4的verilog代码
+# Digital clock
+基于Nexys4的verilog数字钟
 
 ### 数字钟：
 1. 实验引脚约束文件基于Nexys4非DDR板。
